@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/blog007/static/css/main.5208948f.css",
+    "main.js": "/blog007/static/js/main.5cab063b.js",
+    "static/media/head.jpg": "/blog007/static/media/head.05ddd86a4de52a4104d0.jpg",
+    "static/media/B.jpg": "/blog007/static/media/B.745ef5cda6d12fa7ea7b.jpg",
+    "static/media/mypp.jpg": "/blog007/static/media/mypp.f76a8cf827b81bf72349.jpg",
+    "index.html": "/blog007/index.html",
+    "main.5208948f.css.map": "/blog007/static/css/main.5208948f.css.map",
+    "main.5cab063b.js.map": "/blog007/static/js/main.5cab063b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5208948f.css",
+    "static/js/main.5cab063b.js"
+  ]
+}
